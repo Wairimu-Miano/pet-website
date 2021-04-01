@@ -1,3 +1,3 @@
 # pet-website
-# Author: Miano Wairimu
-# Description: A webpage about my pet, a cat
+## Author: Miano Wairimu
+## Description: A webpage about my pet, a cat
