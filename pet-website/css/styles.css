@@ -9,3 +9,21 @@ img{
   width:50%;
   border:5px solid #c1946a;
 }
+p{
+  font-size:125%;
+  font-weight:bold;
+}
+li{
+  font-size:110%;
+}
+.intro{
+  padding-bottom:20px;
+  margin-bottom:0;
+}
+.playdate{
+  width:100%;
+  padding-top:20px;
+  text-align:center;
+  border-top:3px solid #c1946a;
+  margin-top:0;
+}
